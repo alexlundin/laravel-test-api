@@ -14,7 +14,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/alexlundin/laravel-test-api.git
-cd laravel-test
+cd laravel-test-api
 ```
 
 2. Установите зависимости PHP:
